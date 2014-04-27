@@ -1,7 +1,7 @@
 datacleaning
 ============
 
-The repository datacleaning has the following script run_analysis.R which does the following.
+The repository datacleaning has the following script run_analysis.R( runAnalysis() )which does the following.
 * Loads the subject,activity and measurements for test data
 * Add the activity description for the activities
 * create a testFile with the above data
