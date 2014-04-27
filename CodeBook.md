@@ -1,15 +1,16 @@
-
 ## Code Book
 
-###Mapping for Activity Id -> Activity Description
+###Mapping for Activity Id -> Activity Description - The activity id ranges from 1 to 6 - Factor1
 * 1 -> WALKING
 * 2 -> WALKING_UPSTAIRS
 * 3 -> WALKING_DOWNSTAIRS
 * 4 -> SITTING
 * 5 -> STANDING
 * 6 -> LAYING
+### Subjects
+* There are 30 subjects considered for this data set. The subject id ranges from 1 to 30 - Factor2
 
-###Measurements
+###Measurements of colmeans() which are measured based on each activiy and subject ids - The following are the rownames
 
 * "tBodyAcc-mean()-X"           
 * "tBodyAcc-mean()-Y" 
