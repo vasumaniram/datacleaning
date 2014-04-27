@@ -78,3 +78,5 @@
 * "fBodyBodyGyroMag-std()"      
 * "fBodyBodyGyroJerkMag-mean()"  
 * "fBodyBodyGyroJerkMag-std()" 
+
+#### The columns are the combination of Factor1(activity id) and Factor2(subject id). 1.1 means Activity id 1 and subject id 1
